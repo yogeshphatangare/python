@@ -1,0 +1,47 @@
+[{
+		"color": "black",
+		"category": "hue",
+		"type": "primary",
+		"codergba":"255,255,255",
+		"codehex": "#000"
+	},
+	{
+		"color": "white",
+		"category": "value",
+                "type":"primary",
+		"codergba": "0,0,0",
+		"codehex": "#FFF"
+	},
+	{
+		"color": "red",
+		"category": "hue",
+		"type": "primary",
+		"codergba": "255,0,0",
+		"codehex": "#FF0"
+
+	},
+	{
+		"color": "blue",
+		"category": "hue",
+		"type": "primary",
+		"codergba": "0,0,255",
+		"codehex": "#00F"
+
+	},
+	{
+		"color": "yellow",
+		"category": "hue",
+		"type": "primary",
+		"codergba": "255,255,0",
+		"codehex": "#FF0"
+
+	},
+	{
+		"color": "green",
+		"category": "hue",
+		"type": "secondary",
+		"codergba": "0,255,0",
+		"codehex": "#0F0"
+
+	}
+]
